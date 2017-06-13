@@ -22,3 +22,5 @@ C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\System.Xml.Linq.dll
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\TR\System.Data.SqlServerCe.resources.dll
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\Resources\Martz90-Circle-Addon1-Text-plus.ico
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\obj\Release\kimlene.csprojResolveAssemblyReference.cache
+C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\Resources\Add User Male_48px.png
+C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\Resources\Edit Property_48px.png
