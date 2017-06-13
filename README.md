@@ -1,0 +1,2 @@
+# kimlene
+kimle ne konuştum?
