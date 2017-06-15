@@ -35,3 +35,34 @@ C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Debug\System.Xml.dll
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Debug\System.Xml.Linq.dll
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Debug\TR\System.Data.SqlServerCe.resources.dll
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Debug\Resources\Martz90-Circle-Addon1-Text-plus.ico
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\Resources\Martz90-Circle-Addon1-Text-plus.ico
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\Resources\Add User Male_48px.png
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\Resources\Edit Property_48px.png
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\kimlene.exe.config
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\kimlene.exe
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\kimlene.pdb
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Data.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Deployment.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Drawing.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Net.Http.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Windows.Forms.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Xml.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\System.Xml.Linq.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.csprojResolveAssemblyReference.cache
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.NotEkle.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.KisiEkle.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.Kisiler.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.Properties.Resources.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.csproj.GenerateResource.Cache
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.exe
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.pdb
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServerCompact.xml

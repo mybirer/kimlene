@@ -23,9 +23,26 @@ namespace kimlene
         {
             try
             {
-                kisiListe = GlobalClass.executeSqlQuery("SELECT * FROM kisiler", GlobalClass.SQLConn);
+                kisiListe = GlobalClass.executeSqlQuery("SELECT pkkisi, adSoyad FROM kisiler", GlobalClass.SQLConn);
                 BindingSource bs = new BindingSource();
                 bs.DataSource = kisiListe;
+
+                //son notu ekle
+                DataColumn sonNotColumn = new DataColumn("Son Not", typeof(String));
+                kisiListe.Columns.Add(sonNotColumn);
+                DataColumn yontemColumn = new DataColumn("Yöntem", typeof(String));
+                kisiListe.Columns.Add(yontemColumn);
+                for (var i = 0; i < kisiListe.Rows.Count; i++)
+                {
+                    var pkField = kisiListe.Rows[i].Field<int>("pkkisi");
+                    DataTable sonnot = GlobalClass.executeSqlQuery(string.Format("SELECT TOP 1 notMetin, notYontem FROM notlar WHERE pkkisi='{0}' ORDER BY pknot DESC", pkField), GlobalClass.SQLConn);
+                    if (sonnot.Rows.Count > 0)
+                    {
+                        kisiListe.Rows[i].SetField<String>(sonNotColumn, sonnot.Rows[0]["notMetin"].ToString());
+                        kisiListe.Rows[i].SetField<String>(yontemColumn, sonnot.Rows[0]["notYontem"].ToString());
+                    }
+                }
+
                 dataGridView1.DataSource = bs;
                 dataGridView1.ClearSelection();
                 dataGridView1.Refresh();
@@ -142,10 +159,11 @@ namespace kimlene
             try
             {
                 GV.Columns["adSoyad"].HeaderText = "Ad Soyad";
-                GV.Columns["hakkinda"].HeaderText = "Hakkında";
-                GV.Columns["kayitTarihi"].HeaderText = "Kayıt Tarihi";
+                //GV.Columns["hakkinda"].HeaderText = "Hakkında";
+                //GV.Columns["kayitTarihi"].HeaderText = "Kayıt Tarihi";
 
                 GV.Columns["pkkisi"].Visible = false;
+                //GV.Columns["hakkinda"].Visible = false;
             }
             catch (Exception ex)
             {

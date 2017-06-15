@@ -184,5 +184,10 @@ namespace kimlene
             }
             return base.ProcessCmdKey(ref msg, keyData);
         }
+
+        private void dataGridView1_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
+        {
+            NotEkleNotMetni.Text = dataGridView1.CurrentRow.Cells["notMetin"].Value.ToString();
+        }
     }
 }
