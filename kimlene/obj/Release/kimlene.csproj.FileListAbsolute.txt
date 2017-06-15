@@ -24,3 +24,38 @@ C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\Resources\Martz90-Cir
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\obj\Release\kimlene.csprojResolveAssemblyReference.cache
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\Resources\Add User Male_48px.png
 C:\Users\MyBirer\Desktop\works\kimlene\kimlene\bin\Release\Resources\Edit Property_48px.png
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\Resources\Martz90-Circle-Addon1-Text-plus.ico
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\Resources\Add User Male_48px.png
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\Resources\Edit Property_48px.png
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\kimlene.exe.config
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\kimlene.exe
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\kimlene.pdb
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\EntityFramework.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\Microsoft.CSharp.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Data.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Data.SqlServerCe.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Deployment.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Drawing.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Net.Http.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Windows.Forms.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Xml.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\System.Xml.Linq.dll
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\EntityFramework.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.NotEkle.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.KisiEkle.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.Kisiler.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.Properties.Resources.resources
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.csproj.GenerateResource.Cache
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.exe
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.pdb
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\kimlene.exe.manifest
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Release\kimlene.application
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.TrustInfo.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.exe.manifest
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Release\kimlene.application

@@ -32,18 +32,22 @@ namespace kimlene
                 kisiListe.Columns.Add(sonNotColumn);
                 DataColumn yontemColumn = new DataColumn("Yöntem", typeof(String));
                 kisiListe.Columns.Add(yontemColumn);
+                DataColumn tarihColumn = new DataColumn("Tarih", typeof(String));
+                kisiListe.Columns.Add(tarihColumn);
                 for (var i = 0; i < kisiListe.Rows.Count; i++)
                 {
                     var pkField = kisiListe.Rows[i].Field<int>("pkkisi");
-                    DataTable sonnot = GlobalClass.executeSqlQuery(string.Format("SELECT TOP 1 notMetin, notYontem FROM notlar WHERE pkkisi='{0}' ORDER BY pknot DESC", pkField), GlobalClass.SQLConn);
+                    DataTable sonnot = GlobalClass.executeSqlQuery(string.Format("SELECT TOP 1 notMetin, notYontem, kayitTarihi FROM notlar WHERE pkkisi='{0}' ORDER BY pknot DESC", pkField), GlobalClass.SQLConn);
                     if (sonnot.Rows.Count > 0)
                     {
                         kisiListe.Rows[i].SetField<String>(sonNotColumn, sonnot.Rows[0]["notMetin"].ToString());
                         kisiListe.Rows[i].SetField<String>(yontemColumn, sonnot.Rows[0]["notYontem"].ToString());
+                        kisiListe.Rows[i].SetField<String>(tarihColumn, sonnot.Rows[0]["kayitTarihi"].ToString());
                     }
                 }
-
+                
                 dataGridView1.DataSource = bs;
+                dataGridView1.Sort(dataGridView1.Columns["Tarih"], ListSortDirection.Descending);
                 dataGridView1.ClearSelection();
                 dataGridView1.Refresh();
 

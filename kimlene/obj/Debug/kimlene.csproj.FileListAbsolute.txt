@@ -66,3 +66,8 @@ C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServerC
 C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.xml
 C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\kimlene.exe.manifest
+C:\Users\Caner\Source\Repos\kimlene\kimlene\bin\Debug\kimlene.application
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.TrustInfo.xml
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.exe.manifest
+C:\Users\Caner\Source\Repos\kimlene\kimlene\obj\Debug\kimlene.application
